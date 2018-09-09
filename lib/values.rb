@@ -16,6 +16,6 @@ groceries = {
   grains: ["rice", "pasta"]
 }
 
-groceries.values
+groceries.values.Float
 
 end
