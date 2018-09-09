@@ -19,5 +19,4 @@ groceries = {
 
 groceries.keys
 
-
 end
