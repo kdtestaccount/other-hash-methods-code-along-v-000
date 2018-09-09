@@ -16,6 +16,6 @@ groceries = {
   grains: ["rice", "pasta"]
 }
 
-groceries.values.Float
+groceries.values.flatten
 
 end
